@@ -1,5 +1,5 @@
 
-# <p align="center">Hello, my name is Tobias Fernandes Figueiredo and I am a Front-End Developer</p>&nbsp;
+# <p align="center">Hello, my name is Tobias Fernandes Figueiredo and I am a Full Stack Developer</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Tobias-fernandes&theme=radical&mode=weekly" />
